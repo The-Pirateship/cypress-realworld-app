@@ -3,7 +3,7 @@
     on Github. This might not look right in other Markdown previewers. -->
   <img alt="Cypress Real World App Logo" src="./src/svgs/rwa-logo-light.svg#gh-dark-mode-only" />
   <img alt="Cypress Real World App Logo" src="./src/svgs/rwa-logo.svg#gh-light-mode-only" />
-</p>
+</p> 
 
 <p align="center">
   <a href="https://cypress.io">
